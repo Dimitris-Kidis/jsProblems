@@ -1,0 +1,26 @@
+
+.para {
+    background-color: var(--main-theme);
+}
+
+.para-2 {
+    background-color: var(--main-theme);
+}
+
+
+:root {
+    --main-theme: black;
+    --font-alt: 60px;
+}
+
+p + span {
+    background-color: var(--main-theme);
+}
+
+body div {
+    font-size: 30px;
+}
+
+* {
+    background-color: black;
+}
